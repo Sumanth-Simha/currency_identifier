@@ -1,0 +1,5 @@
+train: C:/Users/rsuma/OneDrive/Desktop/My Project/currencyclassify/dataset/images/train
+val: C:/Users/rsuma/OneDrive/Desktop/My Project/currencyclassify/dataset/images/val
+
+nc: 7
+names: ['100₹','10₹','2000₹','200₹','20₹','500₹','50₹']

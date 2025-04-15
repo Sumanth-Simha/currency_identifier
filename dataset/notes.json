@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "100\u20b9"
+    },
+    {
+      "id": 1,
+      "name": "10\u20b9"
+    },
+    {
+      "id": 2,
+      "name": "2000\u20b9"
+    },
+    {
+      "id": 3,
+      "name": "200\u20b9"
+    },
+    {
+      "id": 4,
+      "name": "20\u20b9"
+    },
+    {
+      "id": 5,
+      "name": "500\u20b9"
+    },
+    {
+      "id": 6,
+      "name": "50\u20b9"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
